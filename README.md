@@ -7,3 +7,4 @@ yes i am free
 
 many tools can be integrated with me like docker k8
 jenkins is a modern day pipeline tool
+there are 2 types of projects : 1) freestyle job, 2) pipeline
